@@ -1,0 +1,8 @@
+.title {
+  text-align: center;
+}
+
+.movie_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
